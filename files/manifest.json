@@ -1,6 +1,6 @@
 {
-  "latest_version": "v1.0.4",
-  "release_tag": "v1.0.4",
+  "latest_version": "v1.0.0",
+  "release_tag": "v1.0.0",
   "asset_name": "MonoInjector.exe",
   "release_notes": "Bugfixes and improvements."
 } 
